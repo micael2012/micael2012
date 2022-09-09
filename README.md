@@ -50,10 +50,7 @@ I'm Micael, a self-motivated tech enthusiast and full stack web developer.
     <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" alt="laravel" width="40" height="40"/> 
   </a> 
   
- <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>   
-    <a href="#" target="_blank"> 
+<a href="#" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" alt="vuejs" width="70" height="40"/> 
   </a>
   

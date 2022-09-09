@@ -49,8 +49,11 @@ My Tech Stacks
   <a href="#" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="php" width="40" height="40"/> 
   </a> 
+   <a href="#" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" alt="laravel" width="40" height="40"/> 
+  </a> 
   
-  <a href="https://www.python.org" target="_blank"> 
+ <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>   
     <a href="#" target="_blank"> 

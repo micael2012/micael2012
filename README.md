@@ -41,7 +41,7 @@ My Tech Stacks
   </a>
  
   <a href="#" target="_blank"> 
-    <img src="https://commons.wikimedia.org/wiki/File:PHP-logo.svg#/media/File:PHP-logo.svg" alt="php" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" alt="php" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.python.org" target="_blank"> 
